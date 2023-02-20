@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "instrs.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "nscpu.h": "c",
+        "system_error": "c",
+        "font.C": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp"
+    },
+    "C_Cpp.default.includePath": [
+        "C:\\!Apps\\mingw64\\x86_64-w64-mingw32\\include"
+    ]
+}

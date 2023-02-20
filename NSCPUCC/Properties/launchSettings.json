@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NSCPUCC": {
+      "commandName": "Project",
+      "commandLineArgs": "test.ns test.hex",
+      "workingDirectory": "E:\\Works\\NSCPU\\NSCPUCC"
+    }
+  }
+}

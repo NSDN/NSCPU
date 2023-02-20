@@ -1,0 +1,1 @@
+gcc -std=c11 -static-libgcc -O3 -B ./ *.c -o nscpu
